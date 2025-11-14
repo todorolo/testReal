@@ -24,10 +24,10 @@ EditorBuildSettings:
     path: Assets/UnityTechnologies/Playground/Examples/Roguelike/Roguelike.unity
     guid: ad15a26015e49439387b05c22fe7a962
   - enabled: 1
-    path: Assets/Scenes/lvl1.unity
+    path: Assets/Scenes/tests/test1.unity
     guid: bad8021e84066432cab02324e1aba62e
   - enabled: 1
-    path: Assets/Scenes/lvl2.unity
+    path: Assets/Scenes/tests/test2.unity
     guid: 3027f9702947e42258d3281e7282a98a
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
